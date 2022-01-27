@@ -1,2 +1,2 @@
 # My-Code
-Its a Photograohy Website
+Its a Photography Website
