@@ -1,0 +1,62 @@
+.image{
+    text-align: center;
+}
+
+body{
+  background: #eee;
+  height: auto;
+  margin: 0;
+
+}
+
+.home{
+    text-align: center;
+}
+
+.btn {
+    padding: 0.5rem 2rem;
+    border: 1px #ccc solid;
+    display: inline-block;
+    margin: 2rem 0 0;
+    border-radius: 50px;
+    text-decoration: none;
+    color: #333;
+    transition: background 500ms ease;
+  }
+  
+  .btn:hover {
+    background: #f4f4f4;
+  }
+
+.photos{
+    margin-top: 40px;
+    text-align: center;
+}
+
+.centered{
+  font-family:cursive ;
+  letter-spacing: 5px;
+  font-weight: 100;
+  font-size: 40px;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  text-transform: capitalize;
+  border: 2px white solid;
+  width: 350px;
+  height: 100px;
+  padding: 20px;
+}
+footer{
+  font-family: cursive;
+  text-align: center;
+  padding: 2rem 1rem;
+  margin: auto;
+  color: #333;
+}
+footer h1{
+  font-size: 3rem;
+  margin-bottom: 0;
+}
